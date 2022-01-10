@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NabilMezher
 - 👀 I’m interested in Artificial intelligence,Data Science,Intelligent Systems
 - 🌱 I’m currently learning Computer Science 2nd year
-- 💞️ I’m looking to collaborate on any Java,Data Structures,TensorFlow,Machine Learnig Projects
+- 💞️ I’m looking to collaborate on any 
 - 📫 How to reach me 
 Email:nabilmezher2002@gmail.com
 
