@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NabilMezher
-- 👀 I’m interested in Artificial intelligence,Software Engineering,Intelligent Systems
-- 🌱 I’m currently learning Computer Science 3rd year
-- 💞️ I’m looking to collaborate on any Java,Python projects
+- 👀 I’m interested in Software Engineering,Back End, Cloud Computing.
+- 🌱 I’m currently learning Computer Science 3rd year.
+- 💞️ I’m looking to collaborate on any Java,Node.js, React.js projects
 - 📫 How to reach me 
 Email:nabilmezher2002@gmail.com
 
