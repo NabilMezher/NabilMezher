@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NabilMezher
 - 👀 I’m interested in Back End, Cloud Computing, Machine Learning.
-- 🌱 I’m currently learning Computer Science 3rd year.
+- 🌱 I’m currently learning Node.js, Express.js, React Native.
 - 💞️ I’m looking to collaborate on any Java,Node.js, React.js projects
 - 📫 How to reach me 
 Email:nabilmezher2002@gmail.com
